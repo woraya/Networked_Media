@@ -1,2 +1,7 @@
 # Networked_Media
-Repository for Networked Media class assignments
+This repository for Networked Media class assignments
+
+ITP, NYU
+Spring 2017
+
+Instructor :: Shawn Van Every
