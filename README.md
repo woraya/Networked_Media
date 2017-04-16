@@ -1,5 +1,5 @@
 # Networked_Media
-This repository for Networked Media class assignments
+This repository for Networked Media class assignments.
 
 ITP, NYU
 Spring 2017
